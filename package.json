@@ -38,6 +38,8 @@
   },
   "devDependencies": {
     "newman": "^3.8.2",
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.11.0",
+    "shipit-cli": "^4.1.1",
+    "shipit-deploy": "^4.1.1"
   }
 }
